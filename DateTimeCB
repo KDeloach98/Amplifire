@@ -1,0 +1,6 @@
+## Buisness Scenerios For Use:
+* Time-sensitive documents such as invoices
+    
+    -throughout the proecss the time format varies.
+    
+    -when processing documents a specific amount of time needs to be added or subtracted (ie: for example adding a extra year to a document).
